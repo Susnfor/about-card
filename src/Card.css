@@ -1,0 +1,26 @@
+img{
+    width: auto;
+    height: 100px;
+    border-radius: 30px;
+}
+
+.card-m{
+    background-color: white;
+    padding: 1rem;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0px 2px 20px rgba(0,0,0,0.9);
+}
+.card-cont{
+    height: 100%;
+    /* border: 15px solid green; */
+    width: auto ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+ }
+
+ .inner-card{
+    width: 40vh;
+ }

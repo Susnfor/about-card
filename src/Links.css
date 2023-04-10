@@ -1,0 +1,14 @@
+.links-m{
+    padding: .5rem;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: purple;
+}
